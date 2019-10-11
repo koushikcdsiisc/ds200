@@ -14,3 +14,11 @@ It is observed that the median , minimum and maximum budgets are all higher for 
 
 3.Bar Plot
 It is observed that every year the budget allocated to D/o School education & Literacy is higher than the budget allocated to D/o Higher Education.
+
+
+The links used to generate the above plots are 
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.scatter.html
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.boxplot.html
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.bar.html
+
+All plots are done using matplotlin in Jupyter Notebook(Find the plots and the ipnyb file in the zip file attached).
