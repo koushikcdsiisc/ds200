@@ -4,7 +4,7 @@ The data set used can be found in the below link: https://data.gov.in/resources/
 
 Data set Description: It provides information about Total allocation of funds on education 2015-16 to 2018-19.It also provides details of the allocation to D/o School education & Literacy and D/o Higher Education of the total allocation every year.
 
-The three plots crated to visualize the data and the observations are listed below:
+The three plots created to visualize the data and the observations are listed below:
 
 1.Scatter Plot
 It is observed that there is a positive correlation between the budget allocated to D/o School education & Literacy and D/o Higher Education every year.
